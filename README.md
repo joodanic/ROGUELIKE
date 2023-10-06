@@ -1,2 +1,2 @@
 # ROGUELIKE
-ROGUELIKE game made in python following [http://rogueliketutorials.com/tutorials/tcod/v2/]
+ROGUELIKE game made in python following [rogueliketutorials](http://rogueliketutorials.com/tutorials/tcod/v2/)
